@@ -2,7 +2,7 @@
 
 This project has the implementation of Newton ADMM of the paper 
 
-[Distributed Second-order Convex Optimization](https://arxiv.org/abs/1807.07132)
+[Newton-ADMM: A Distributed GPU-Accelerated Optimizer for Multiclass Classification Problems](https://arxiv.org/abs/1807.07132)
 
 ## Environment
 
