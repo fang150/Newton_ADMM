@@ -1,8 +1,8 @@
 # Newton ADMM
 
-This project has the implementation of Newton ADMM of the paper 
+This project has the implementation of Newton ADMM for our paper 
 
-[Newton-ADMM: A Distributed GPU-Accelerated Optimizer for Multiclass Classification Problems](https://arxiv.org/abs/1807.07132)
+[Newton-ADMM: A Distributed GPU-Accelerated Optimizer for Multiclass Classification Problems](https://sc20.supercomputing.org/proceedings/tech_paper/tech_paper_pages/pap476.html)
 
 ## Environment
 
