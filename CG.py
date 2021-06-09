@@ -6,6 +6,7 @@ __email__  = 'fang150@purdue.edu'
 ##	Conjugate	Gradient Descent Method        ##
 #################################################
 
+
 import numpy as np
 import torch
 from torch.autograd import Variable

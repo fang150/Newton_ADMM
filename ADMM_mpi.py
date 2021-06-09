@@ -8,7 +8,7 @@ __email__  = 'fang150@purdue.edu'
 ##  with Spectral Penalty Parameter Selection  ##        
 #################################################
 
-import o
+import os
 import sys
 import time
 import numpy as np

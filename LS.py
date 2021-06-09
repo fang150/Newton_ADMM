@@ -6,6 +6,7 @@ __email__  = 'fang150@purdue.edu'
 ##	Backtracking-Armijo LineSearch             ##
 #################################################
 
+
 import numpy as np
 import torch
 from torch.autograd import Variable
